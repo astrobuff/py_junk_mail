@@ -19,6 +19,7 @@ In only know that it works on my personal linux machine---I suppose it would pro
 
 the create_cover_letters.py makes some calls using 
 > system("command line stuff goes here") 
+
 I know you aren't supposed to do this, but I can't figure out subprocess, so...
 
 For it to work, you need to have pdflatex, jinja2 and python. 
